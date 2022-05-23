@@ -145,7 +145,7 @@ legend.onAdd = function() {
 legend.addTo(map);
 
 let tectonicstyle = { 
-  color: "blue",
+  color: "red",
   weight: 2.5
 };
 
